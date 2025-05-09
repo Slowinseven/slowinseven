@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Slowinseven/slowinseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estou Criando Projetos front-end
+- 🌱 Estou constantemente Estudando Programação Web em geral
+-👯 Procuro colaborar em: projetos de programação, interfaces inspiradas em apps populares (como Starbucks, Facebook), APIs simples e sistemas escolares.
+
+-🤔 Procuro ajuda com: otimização de treinos e alimentação pra ganhar massa muscular, e talvez ideias pra evoluir seus projetos.
+
+-💬 Me pergunte sobre: suporte técnico em sistemas escolares, exportação de dados pro censo, front-end.
+
+-📫 Como falar comigo: Discord: slowinseven
+
