@@ -1,14 +1,53 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+<h1 align="center">olá mundo, Wall on code 👋</h1>
 
-- 🔭 Estou Criando Projetos front-end
-- 🌱 Estou constantemente Estudando Programação Web em geral
--👯 Procuro colaborar em: projetos de programação, interfaces inspiradas em apps populares (como Starbucks, Facebook), APIs simples e sistemas escolares.
+<p align="center">
+  <i>Desenvolvedor focado em front-end e APIs simples | Amante de interfaces bonitas e funcionais</i>
+</p>
 
--🤔 Procuro ajuda com: otimização de treinos e alimentação pra ganhar massa muscular, e talvez ideias pra evoluir seus projetos.
+---
 
--💬 Me pergunte sobre: suporte técnico em sistemas escolares, exportação de dados pro censo, front-end.
+### 👨‍💻 Sobre mim
 
--📫 Como falar comigo: Discord: slowinseven
+- 👯 <b>Procuro colaborar em:</b> projetos de front-end, APIs simples e interfaces inspiradas em apps como Starbucks e Facebook.  
+- 🤔 <b>Procuro ajuda com:</b> boas práticas, arquitetura e performance de projetos.  
+- 💬 <b>Me pergunte sobre:</b> desenvolvimento web, integração de sistemas e suporte técnico.  
+- 📫 <b>Contato:</b> Discord → <code>slowinseven</code>  
+- 😄 <b>Pronomes:</b> ele/dele  
+- ⚡ <b>Fato curioso:</b> comecei com sistemas escolares e hoje crio experiências mais modernas.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slowinseven&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slowinseven&layout=compact&theme=radical" />
+</div>
+
+---
+
+### 🛠️ Tecnologias que uso
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="JavaScript"/>
+  <h1 align="center">Salve, eu sou o Wall 👋</h1>
+
+<p align="center">
+  <i>Desenvolvedor focado em front-end e APIs simples | Amante de interfaces bonitas e funcionais</i>
+</p>
+
+---
+
+<p align="center">Feito com 💻 e café por <b>Wall</b></p>
+
+</p>
+
+---
+
 
