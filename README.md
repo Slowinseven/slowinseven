@@ -2,7 +2,7 @@
 ## <h1 align="center">olá mundo, Wall on code 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://giffiles.alphacoders.com/220/220120.gif)" width="200" />
 </p>
 
 <p align="center">
